@@ -5,7 +5,7 @@
 
 ## **FILES**
 
-### You will be given 2 files. One is the main file (Multiple_year_stock_data.xlsx), and the other one is the testing file (alphabetical_testing.xlsx) that has similar and less data and can be used while ### developing your code to allow you to test the code faster.
+### You will be given 2 files. One is the main file (Multiple_year_stock_data.xlsx), and the other one is the testing file (alphabetical_testing.xlsx) that has similar and less data and can be used while developing your code to allow you to test the code faster.
 
 ## **Instructions**
 
